@@ -1,7 +1,30 @@
-# taugashyq
+# 🏔️ Taugashyq
 
-##Group Information
+A full-stack web application developed as part of our university project.  
 
-##Project Members :
 
-##Student 1 – Shaiyrgozha Bekzat| GitHub : https://github.com/bekzatshaiyrgozha ##Student 2 – Bergenbay Nurzhas| GitHub : https://github.com/sportacus1212 ##Student 3 – Abdukhalyk Arsen| GitHub : https://github.com/Arsench1kk
+---
+
+## 👨‍👩‍👧‍👦 Group Information
+
+### 👥 Project Members
+
+| Name                | GitHub Profile                                  |
+|---------------------|--------------------------------------------------|
+| 🧑‍💻 Shaiyrgozha Bekzat | [bekzatshaiyrgozha](https://github.com/bekzatshaiyrgozha) |
+| 🧑‍💻 Bergenbay Nurzhas   | [sportacus1212](https://github.com/sportacus1212)         |
+| 🧑‍💻 Abdukhalyk Arsen   | [Arsench1kk](https://github.com/Arsench1kk)               |
+
+---
+
+## 🚀 Technologies Used
+
+- **Backend**: Django, Django REST Framework
+- **Frontend**: Angular
+- **Database**: SQLite / PostgreSQL (optional)
+- **Authentication**: JWT
+
+---
+
+## 📁 Project Structure
+
