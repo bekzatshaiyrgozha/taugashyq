@@ -10,9 +10,9 @@
             <a class="link" routerLink="/master-classes">Mountain Hiking Tours</a>
 
 
-            <app-button class="createRecipe" label="Create Recipe" (click)="handleCreateRecipe()" *ngIf="isLogged"></app-button>
+            <app-button class="createRecipe" label="Create post" (click)="handleCreateRecipe()" *ngIf="isLogged"></app-button>
 
-            <app-button class="createMasterClass" label="Create Master Class" (click)="handleCreateMasterClass()" *ngIf="isLogged"></app-button>
+            <app-button class="createMasterClass" label="Create tours" (click)="handleCreateMasterClass()" *ngIf="isLogged"></app-button>
 
             <app-button label="Log in" mat-button (click)="openLoginDialog()" *ngIf="!isLogged"></app-button>
 
@@ -25,8 +25,7 @@
 
 
     <div class="wrapper-input">
-        <img src="../../../assets/chefIcon.svg" alt="" />
-        <input type="text" placeholder="find the recipes you want" [(ngModel)]="searchQuery" (input)="onSearchInput()" />
+        <input type="text" placeholder="find mountains/tours" [(ngModel)]="searchQuery" (input)="onSearchInput()" />
         <app-button label="Search"></app-button>
     </div>
 </div>
