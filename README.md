@@ -22,7 +22,7 @@ A full-stack web application developed as part of our university project.
 - **Backend**: Django, Django REST Framework
 - **Frontend**: Angular
 - **Database**: SQLite / PostgreSQL (optional)
-- **Authentication**: JWT
+- **Authentication**: JWT.
 
 ---
 
