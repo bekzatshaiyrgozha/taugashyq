@@ -26,5 +26,19 @@ A full-stack web application developed as part of our university project.
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🌄 Project Description
+
+Users can:
+- 🔍 Browse and register for available mountain tours
+- ✍️ Create and read posts about mountains and hiking experiences
+- 🏷️ View popular categories and tours
+- ✅ Authenticate through a secure login/registration system
+- 📸 Upload images and descriptions for their hiking adventures
+
+
+
+
+
 
